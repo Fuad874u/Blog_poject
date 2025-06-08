@@ -4,7 +4,7 @@
           <!-- Category Edit -->
 <section id="categories">
   <h2 class="text-2xl font-semibold mb-4">Edit Category</h2>
-name1
+
 <!-- Category Edit Form -->
 <div class="bg-white p-6 rounded shadow mb-6">
   <h3 class="text-xl font-semibold mb-4">Edit Category</h3>
